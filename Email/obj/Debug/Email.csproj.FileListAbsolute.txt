@@ -1,0 +1,10 @@
+C:\BSCS\ummdistributioncompany\Email\bin\Debug\Email.exe.config
+C:\BSCS\ummdistributioncompany\Email\bin\Debug\Email.exe
+C:\BSCS\ummdistributioncompany\Email\bin\Debug\Email.pdb
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.csproj.AssemblyReference.cache
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.Form1.resources
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.Properties.Resources.resources
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.csproj.GenerateResource.cache
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.exe
+C:\BSCS\ummdistributioncompany\Email\obj\Debug\Email.pdb
