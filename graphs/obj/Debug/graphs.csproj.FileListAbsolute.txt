@@ -1,0 +1,10 @@
+E:\ummdistributioncompany\graphs\bin\Debug\graphs.exe.config
+E:\ummdistributioncompany\graphs\bin\Debug\graphs.exe
+E:\ummdistributioncompany\graphs\bin\Debug\graphs.pdb
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.AssemblyReference.cache
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.Form1.resources
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.Properties.Resources.resources
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.GenerateResource.cache
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.CoreCompileInputs.cache
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.exe
+E:\ummdistributioncompany\graphs\obj\Debug\graphs.pdb
