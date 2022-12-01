@@ -46,29 +46,26 @@ namespace GoogleMap
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(1109, 61);
-            this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label1.Location = new System.Drawing.Point(605, 33);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 25);
+            this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "label1";
             // 
             // Lattxt
             // 
             this.Lattxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.Lattxt.Location = new System.Drawing.Point(1115, 118);
-            this.Lattxt.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Lattxt.Location = new System.Drawing.Point(608, 64);
             this.Lattxt.Name = "Lattxt";
-            this.Lattxt.Size = new System.Drawing.Size(180, 29);
+            this.Lattxt.Size = new System.Drawing.Size(100, 20);
             this.Lattxt.TabIndex = 3;
             // 
             // btnLoadMap
             // 
             this.btnLoadMap.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnLoadMap.Location = new System.Drawing.Point(1157, 639);
-            this.btnLoadMap.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btnLoadMap.Location = new System.Drawing.Point(631, 346);
             this.btnLoadMap.Name = "btnLoadMap";
-            this.btnLoadMap.Size = new System.Drawing.Size(138, 42);
+            this.btnLoadMap.Size = new System.Drawing.Size(75, 23);
             this.btnLoadMap.TabIndex = 4;
             this.btnLoadMap.Text = "button1";
             this.btnLoadMap.UseVisualStyleBackColor = true;
@@ -77,20 +74,18 @@ namespace GoogleMap
             // Longtxt
             // 
             this.Longtxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.Longtxt.Location = new System.Drawing.Point(1115, 234);
-            this.Longtxt.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Longtxt.Location = new System.Drawing.Point(608, 127);
             this.Longtxt.Name = "Longtxt";
-            this.Longtxt.Size = new System.Drawing.Size(180, 29);
+            this.Longtxt.Size = new System.Drawing.Size(100, 20);
             this.Longtxt.TabIndex = 6;
             // 
             // label2
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(1109, 177);
-            this.label2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label2.Location = new System.Drawing.Point(605, 96);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(64, 25);
+            this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 5;
             this.label2.Text = "label2";
             // 
@@ -104,8 +99,7 @@ namespace GoogleMap
             this.gMapDisplayArea.GrayScaleMode = false;
             this.gMapDisplayArea.HelperLineOption = GMap.NET.WindowsForms.HelperLineOptions.DontShow;
             this.gMapDisplayArea.LevelsKeepInMemory = 5;
-            this.gMapDisplayArea.Location = new System.Drawing.Point(6, 0);
-            this.gMapDisplayArea.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.gMapDisplayArea.Location = new System.Drawing.Point(3, 0);
             this.gMapDisplayArea.MarkersEnabled = true;
             this.gMapDisplayArea.MaxZoom = 2;
             this.gMapDisplayArea.MinZoom = 2;
@@ -119,57 +113,52 @@ namespace GoogleMap
             this.gMapDisplayArea.ScaleMode = GMap.NET.WindowsForms.ScaleModes.Integer;
             this.gMapDisplayArea.SelectedAreaFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(65)))), ((int)(((byte)(105)))), ((int)(((byte)(225)))));
             this.gMapDisplayArea.ShowTileGridLines = false;
-            this.gMapDisplayArea.Size = new System.Drawing.Size(1036, 836);
+            this.gMapDisplayArea.Size = new System.Drawing.Size(565, 398);
             this.gMapDisplayArea.TabIndex = 7;
             this.gMapDisplayArea.Zoom = 0D;
             // 
             // long2txt
             // 
             this.long2txt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.long2txt.Location = new System.Drawing.Point(1116, 550);
-            this.long2txt.Margin = new System.Windows.Forms.Padding(6);
+            this.long2txt.Location = new System.Drawing.Point(609, 298);
             this.long2txt.Name = "long2txt";
-            this.long2txt.Size = new System.Drawing.Size(180, 29);
+            this.long2txt.Size = new System.Drawing.Size(100, 20);
             this.long2txt.TabIndex = 11;
             // 
             // label3
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(1110, 493);
-            this.label3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label3.Location = new System.Drawing.Point(605, 267);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 25);
+            this.label3.Size = new System.Drawing.Size(35, 13);
             this.label3.TabIndex = 10;
             this.label3.Text = "label3";
             // 
             // lat2txt
             // 
             this.lat2txt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.lat2txt.Location = new System.Drawing.Point(1116, 434);
-            this.lat2txt.Margin = new System.Windows.Forms.Padding(6);
+            this.lat2txt.Location = new System.Drawing.Point(609, 235);
             this.lat2txt.Name = "lat2txt";
-            this.lat2txt.Size = new System.Drawing.Size(180, 29);
+            this.lat2txt.Size = new System.Drawing.Size(100, 20);
             this.lat2txt.TabIndex = 9;
             // 
             // label4
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(1110, 377);
-            this.label4.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label4.Location = new System.Drawing.Point(605, 204);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(64, 25);
+            this.label4.Size = new System.Drawing.Size(35, 13);
             this.label4.TabIndex = 8;
             this.label4.Text = "label4";
             // 
             // GetRoute
             // 
             this.GetRoute.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.GetRoute.Location = new System.Drawing.Point(1158, 693);
-            this.GetRoute.Margin = new System.Windows.Forms.Padding(6);
+            this.GetRoute.Location = new System.Drawing.Point(632, 375);
             this.GetRoute.Name = "GetRoute";
-            this.GetRoute.Size = new System.Drawing.Size(138, 42);
+            this.GetRoute.Size = new System.Drawing.Size(75, 23);
             this.GetRoute.TabIndex = 12;
             this.GetRoute.Text = "button1";
             this.GetRoute.UseVisualStyleBackColor = true;
@@ -177,9 +166,9 @@ namespace GoogleMap
             // 
             // Mapfrm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1467, 831);
+            this.ClientSize = new System.Drawing.Size(747, 406);
             this.Controls.Add(this.GetRoute);
             this.Controls.Add(this.long2txt);
             this.Controls.Add(this.label3);
@@ -191,7 +180,6 @@ namespace GoogleMap
             this.Controls.Add(this.btnLoadMap);
             this.Controls.Add(this.Lattxt);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Mapfrm";
             this.Text = "Mapfrm";
             this.Load += new System.EventHandler(this.Mapfrm_Load);
