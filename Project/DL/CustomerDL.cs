@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project.BL
+namespace SignIn.DL
 {
-    class Rider
+    class CustomerDL
     {
     }
 }

@@ -8,5 +8,8 @@ namespace Project.Data_Structure
 {
     class Node
     {
+        public int data;
+        public Node next;
+        public Node prev;
     }
 }

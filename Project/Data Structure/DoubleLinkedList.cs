@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace Project.Data_Structure
 {
     class DoubleLinkedList
     {
         public Node head;
-      
+
         //constructor to create an empty LinkedList
         public DoubleLinkedList()
         {

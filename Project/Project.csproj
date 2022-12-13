@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL\Employee.cs" />
+    <Compile Include="BL\Rider.cs" />
+    <Compile Include="Data Structure\DoubleLinkedList.cs" />
+    <Compile Include="Data Structure\Node.cs" />
+    <Compile Include="DL\EmployeeDL.cs" />
+    <Compile Include="DL\RiderDL.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,5 +82,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
