@@ -46,8 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL\area.cs" />
+    <Compile Include="BL\CustomerBL.cs" />
     <Compile Include="BL\UserBL.cs" />
     <Compile Include="BL\ProductBL.cs" />
+    <Compile Include="DL\CustomerDL.cs" />
     <Compile Include="DL\ProductDL.cs" />
     <Compile Include="DL\UserDL.cs" />
     <Compile Include="Form1.cs">
