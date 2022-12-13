@@ -8,3 +8,13 @@ E:\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.GenerateResource.cache
 E:\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.CoreCompileInputs.cache
 E:\ummdistributioncompany\graphs\obj\Debug\graphs.exe
 E:\ummdistributioncompany\graphs\obj\Debug\graphs.pdb
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.AssemblyReference.cache
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.Form1.resources
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.Properties.Resources.resources
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.GenerateResource.cache
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.csproj.CoreCompileInputs.cache
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.exe
+C:\BSCS\ummdistributioncompany\graphs\obj\Debug\graphs.pdb
+C:\BSCS\ummdistributioncompany\graphs\bin\Debug\graphs.exe.config
+C:\BSCS\ummdistributioncompany\graphs\bin\Debug\graphs.exe
+C:\BSCS\ummdistributioncompany\graphs\bin\Debug\graphs.pdb

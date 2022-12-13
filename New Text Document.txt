@@ -1,0 +1,2 @@
+Ali,aliAA34@gmail.com,500,true,50;87.998,78,89;1226789018
+Ahmad,Ahmad78@gmail.com,false,0;87.675,98.76;76972809209

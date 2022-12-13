@@ -19,9 +19,15 @@ namespace graphs
 
         private void plotbtn_Click(object sender, EventArgs e)
         {
-            chart.Series["Series"].Points.AddXY("Nor", 8.7);
-            chart.Series["Series"].Points.AddXY("Noir", 8.9);
-            chart.Series["Series"].Points.AddXY("or", 9.7);
+            //chart.AxisX.Title = "Day of Week";
+            chart.Series["sales"].Points.AddXY("TapalXL", 8.7);
+            chart.Series["sales"].Points.AddXY("TapalS", 8.9);
+            chart.Series["sales"].Points.AddXY("TapalM", 9.7);
+        }
+
+        private void chart_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
