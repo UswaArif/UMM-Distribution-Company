@@ -82,5 +82,49 @@ namespace SignIn.DL
             }
             return false;
         }
+        public static CustomerBL CheckCus(string Cinic)
+        {
+            foreach (CustomerBL c in cusList)
+            {
+                if (c.CusCinic1 == Cinic)
+                {
+                    return c;
+                }
+            }
+            return null;
+        }
+        public static CustomerBL CheckCus(CustomerBL cus)
+        {
+            foreach (CustomerBL c in cusList)
+            {
+                if (cus.CusName1 == c.CusName1 && cus.CusEmail1 == c.CusEmail1 && cus.CusLedger1 == c.CusLedger1 && cus.IsFrequenter1 == c.IsFrequenter1 && cus.CusTotalOrder1 == c.CusTotalOrder1 && cus.CusAddress1 == c.CusAddress1 && cus.CusCinic1 == c.CusCinic1)
+                {
+                    return c;
+                }
+            }
+            return null;
+        }
+        public static string GetEmail(string Cinic)
+        {
+            foreach (CustomerBL c in cusList)
+            {
+                if (c.CusCinic1 == Cinic)
+                {
+                    return c.CusEmail1;
+                }
+            }
+            return null;
+        }
+        public static string GetEmail(CustomerBL cus)
+        {
+            foreach (CustomerBL c in cusList)
+            {
+                if (cus.CusName1 == c.CusName1 && cus.CusEmail1 == c.CusEmail1 && cus.CusLedger1 == c.CusLedger1 && cus.IsFrequenter1 == c.IsFrequenter1 && cus.CusTotalOrder1 == c.CusTotalOrder1 && cus.CusAddress1 == c.CusAddress1 && cus.CusCinic1 == c.CusCinic1)
+                {
+                    return c.CusEmail1;
+                }
+            }
+            return null;
+        }
     }
 }
