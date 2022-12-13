@@ -1,0 +1,10 @@
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.csproj.AssemblyReference.cache
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.Form1.resources
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.Properties.Resources.resources
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.csproj.GenerateResource.cache
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.csproj.CoreCompileInputs.cache
+C:\BSCS\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.exe.config
+C:\BSCS\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.exe
+C:\BSCS\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.pdb
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.exe
+C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.pdb

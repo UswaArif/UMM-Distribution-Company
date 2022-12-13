@@ -65,7 +65,7 @@ namespace SignIn.DL
                     int productTotalSelled = int.Parse(splittedRecord[4]);
                     string productExpired = splittedRecord[5];
                     string productSize = splittedRecord[6];
-                    ProductBL newProduct = new ProductBL(productName,productStock,productThreshold, productPrice, productTotalSelled,productExpired, productSize;
+                    ProductBL newProduct = new ProductBL(productName,productStock,productThreshold, productPrice, productTotalSelled,productExpired, productSize);
                     addIntoProductList(newProduct);
                 }
                 file.Close();
