@@ -8,3 +8,19 @@ C:\BSCS\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.exe
 C:\BSCS\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.pdb
 C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.exe
 C:\BSCS\ummdistributioncompany\SignIn\obj\Debug\SignIn.pdb
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.csproj.AssemblyReference.cache
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.AddProduct.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.EditProduct.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.forgetPassword.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.Form1.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.Properties.Resources.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.SignIn.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.SignUp.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.ViewProduct.resources
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.csproj.GenerateResource.cache
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.csproj.CoreCompileInputs.cache
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.exe
+D:\Final term\ummdistributioncompany\SignIn\obj\Debug\SignIn.pdb
+D:\Final term\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.exe.config
+D:\Final term\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.exe
+D:\Final term\ummdistributioncompany\SignIn\bin\Debug\SignIn.exe\SignIn.pdb

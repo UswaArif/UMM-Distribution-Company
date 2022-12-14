@@ -21,7 +21,7 @@ namespace SignIn
 
         private void Editbtn_Click(object sender, EventArgs e)
         {
-            ProductBL newProduct = new ProductBL(ProductNametxt.Text, int.Parse(ProductStocktxt.Text), int.Parse(ProductThresholdtxt.Text), int.Parse(ProductPricetxt.Text), int.Parse(ProductTotalSelledtxt.Text), ProductExpirytxt.Text, SizeCombox.Text);
+            ProductBL newProduct = new ProductBL(ProductNametxt.Text, int.Parse(ProductStocktxt.Text), int.Parse(ProductThresholdtxt.Text), int.Parse(ProductPricetxt.Text), int.Parse(ProductTotalSelledtxt.Text), ProductExpirytxt.Text, SizeComboBox.Text);
             ProductDL.addIntoProductList(newProduct);
         }
     }

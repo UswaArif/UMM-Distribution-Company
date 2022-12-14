@@ -33,7 +33,7 @@ namespace SignIn
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.label1 = new System.Windows.Forms.Label();
             this.ProductExpirytxt = new System.Windows.Forms.TextBox();
-            this.ProductTotalSelled = new System.Windows.Forms.TextBox();
+            this.ProductTotalSelledtxt = new System.Windows.Forms.TextBox();
             this.ProductPricetxt = new System.Windows.Forms.TextBox();
             this.ProductThresholdtxt = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -43,7 +43,7 @@ namespace SignIn
             this.label2 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.ProductNametxt = new System.Windows.Forms.TextBox();
-            this.ProductStrocktxt = new System.Windows.Forms.TextBox();
+            this.ProductStocktxt = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.SizeComboBox = new System.Windows.Forms.ComboBox();
@@ -101,13 +101,13 @@ namespace SignIn
             this.ProductExpirytxt.Size = new System.Drawing.Size(316, 20);
             this.ProductExpirytxt.TabIndex = 22;
             // 
-            // ProductTotalSelled
+            // ProductTotalSelledtxt
             // 
-            this.ProductTotalSelled.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.ProductTotalSelled.Location = new System.Drawing.Point(215, 191);
-            this.ProductTotalSelled.Name = "ProductTotalSelled";
-            this.ProductTotalSelled.Size = new System.Drawing.Size(316, 20);
-            this.ProductTotalSelled.TabIndex = 21;
+            this.ProductTotalSelledtxt.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.ProductTotalSelledtxt.Location = new System.Drawing.Point(215, 191);
+            this.ProductTotalSelledtxt.Name = "ProductTotalSelledtxt";
+            this.ProductTotalSelledtxt.Size = new System.Drawing.Size(316, 20);
+            this.ProductTotalSelledtxt.TabIndex = 21;
             // 
             // ProductPricetxt
             // 
@@ -196,13 +196,13 @@ namespace SignIn
             this.ProductNametxt.Size = new System.Drawing.Size(316, 20);
             this.ProductNametxt.TabIndex = 2;
             // 
-            // ProductStrocktxt
+            // ProductStocktxt
             // 
-            this.ProductStrocktxt.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.ProductStrocktxt.Location = new System.Drawing.Point(215, 64);
-            this.ProductStrocktxt.Name = "ProductStrocktxt";
-            this.ProductStrocktxt.Size = new System.Drawing.Size(316, 20);
-            this.ProductStrocktxt.TabIndex = 5;
+            this.ProductStocktxt.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.ProductStocktxt.Location = new System.Drawing.Point(215, 64);
+            this.ProductStocktxt.Name = "ProductStocktxt";
+            this.ProductStocktxt.Size = new System.Drawing.Size(316, 20);
+            this.ProductStocktxt.TabIndex = 5;
             // 
             // label6
             // 
@@ -271,7 +271,7 @@ namespace SignIn
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.83754F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65.16245F));
             this.tableLayoutPanel4.Controls.Add(this.ProductExpirytxt, 1, 5);
-            this.tableLayoutPanel4.Controls.Add(this.ProductTotalSelled, 1, 4);
+            this.tableLayoutPanel4.Controls.Add(this.ProductTotalSelledtxt, 1, 4);
             this.tableLayoutPanel4.Controls.Add(this.ProductPricetxt, 1, 3);
             this.tableLayoutPanel4.Controls.Add(this.ProductThresholdtxt, 1, 2);
             this.tableLayoutPanel4.Controls.Add(this.label7, 0, 6);
@@ -280,7 +280,7 @@ namespace SignIn
             this.tableLayoutPanel4.Controls.Add(this.label2, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.label8, 0, 1);
             this.tableLayoutPanel4.Controls.Add(this.ProductNametxt, 1, 0);
-            this.tableLayoutPanel4.Controls.Add(this.ProductStrocktxt, 1, 1);
+            this.tableLayoutPanel4.Controls.Add(this.ProductStocktxt, 1, 1);
             this.tableLayoutPanel4.Controls.Add(this.label6, 0, 5);
             this.tableLayoutPanel4.Controls.Add(this.label4, 0, 4);
             this.tableLayoutPanel4.Controls.Add(this.SizeComboBox, 1, 6);
@@ -323,7 +323,7 @@ namespace SignIn
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox ProductExpirytxt;
-        private System.Windows.Forms.TextBox ProductTotalSelled;
+        private System.Windows.Forms.TextBox ProductTotalSelledtxt;
         private System.Windows.Forms.TextBox ProductPricetxt;
         private System.Windows.Forms.TextBox ProductThresholdtxt;
         private System.Windows.Forms.Label label7;
@@ -333,7 +333,7 @@ namespace SignIn
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox ProductNametxt;
-        private System.Windows.Forms.TextBox ProductStrocktxt;
+        private System.Windows.Forms.TextBox ProductStocktxt;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox SizeComboBox;

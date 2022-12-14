@@ -158,7 +158,6 @@ namespace SignIn
             // 
             // productDLBindingSource
             // 
-            this.productDLBindingSource.DataSource = typeof(SignIn.DL.ProductDL);
             // 
             // Form1
             // 

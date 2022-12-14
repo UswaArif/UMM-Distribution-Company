@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SignIn.DL
 {
-    class ProductDL
+    public class ProductDL
     {
         private static LinkedList<ProductBL> productList = new LinkedList<ProductBL>();
 

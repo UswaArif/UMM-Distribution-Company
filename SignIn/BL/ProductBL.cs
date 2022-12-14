@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SignIn.BL
 {
-    class ProductBL
+    public class ProductBL
     {
         private string ProductName;
         private int ProductStock;
