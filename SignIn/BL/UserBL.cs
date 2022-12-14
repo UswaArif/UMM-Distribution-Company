@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SignIn.BL
 {
-    class UserBL
+    public class UserBL
     {
         private string UserName;
         private string UserPassword;
@@ -20,6 +20,11 @@ namespace SignIn.BL
             this.UserName = UserName;
             this.UserPassword = UserPassword;
             this.UserRole = UserRole;
+        }
+        public UserBL(string UserName, string UserPassword)
+        {
+            this.UserName = UserName;
+            this.UserPassword = UserPassword;
         }
         public bool isAdmin()
         {

@@ -1,0 +1,16 @@
+D:\final term\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\final term\Project\Project\obj\Debug\Project.Form1.resources
+D:\final term\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\final term\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\final term\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\final term\Project\Project\bin\Debug\Project.exe.config
+D:\final term\Project\Project\bin\Debug\Project.exe
+D:\final term\Project\Project\bin\Debug\Project.pdb
+D:\final term\Project\Project\obj\Debug\Project.exe
+D:\final term\Project\Project\obj\Debug\Project.pdb
+D:\final term\Project\Project\obj\Debug\Project.Form2.resources
+D:\final term\Project\Project\obj\Debug\Project.Form3.resources
+D:\final term\Project\Project\obj\Debug\Project.Form4.resources
+D:\final term\Project\Project\obj\Debug\Project.Form5.resources
+D:\final term\Project\Project\obj\Debug\Project.Form6.resources
+D:\final term\Project\Project\obj\Debug\Project.Form7.resources
